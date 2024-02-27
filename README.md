@@ -1,1 +1,1 @@
-<h1 align="center">30 Days, 30 Projects Challenge </h1>
+<h1 align="center">Contains ML Projects</h1>
